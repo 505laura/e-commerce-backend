@@ -14,7 +14,7 @@ A backend application for an e-commerce website that makes use of an Express.js 
   - [Questions](#questions)
 
 ## Visuals
-[Walkthrough video](https://github.com/505laura/e-commerce-backend/raw/main/assets/walkthrough.mp4?raw=true)
+![Walkthrough video](https://raw.githubusercontent.com/505laura/e-commerce-backend/main/assets/walkthrough.mp4)
 
 ## Installation
 Run `npm i` in your terminal
